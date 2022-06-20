@@ -11,5 +11,16 @@
   ],
   "profile": { 
   "name": "Profile 1" 
-  }
+  },
+  "produts": [
+    { "id": 1, "title": "Apple", "email": "apple-admin@xyz.com" },
+    { "id": 2, "title": "Orange", "email": "orange-admin@xyz.com" },
+    { "id": 3, "title": "Banana", "email": "banana-admin@xyz.com" },
+    { "id": 4, "title": "Mango", "email": "manago-admin@xyz.com" },
+    { "id": 5, "title": "Sugar", "email": "sugar-admin@xyz.com" },
+    { "id": 6, "title": "Lemon", "email": "lemon-admin@xyz.com" },
+    { "id": 7, "title": "Salt", "email": "salt-admin@xyz.com" },
+    { "id": 8, "title": "Honey", "email": "honey-admin@xyz.com" },
+    { "id": 9, "title": "Jam", "email": "jam-admin@xyz.com" }
+  ],  
 }
