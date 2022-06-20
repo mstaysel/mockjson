@@ -22,5 +22,5 @@
     { "id": 7, "title": "Salt", "email": "salt-admin@xyz.com" },
     { "id": 8, "title": "Honey", "email": "honey-admin@xyz.com" },
     { "id": 9, "title": "Jam", "email": "jam-admin@xyz.com" }
-  ],  
+  ]  
 }
