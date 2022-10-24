@@ -28,10 +28,10 @@
     { "id": 1, "chart": "Bar", "location": "IN", "val": "10" },
     { "id": 2, "chart": "Bar", "location": "US", "val": "15" },
     { "id": 3, "chart": "Bar", "location": "UK", "val": "5" },
-    { "id": 4, "chart": "Bar", "location": "CH", "val": "8" }
-    { "id": 5, "chart": "Donet", "location": "US", "val": "10" }
-    { "id": 6, "chart": "Donet", "location": "CH", "val": "15" }
-    { "id": 7, "chart": "Donet", "location": "IN", "val": "5" }
+    { "id": 4, "chart": "Bar", "location": "CH", "val": "8" },
+    { "id": 5, "chart": "Donet", "location": "US", "val": "10" },
+    { "id": 6, "chart": "Donet", "location": "CH", "val": "15" },
+    { "id": 7, "chart": "Donet", "location": "IN", "val": "5" },
     { "id": 8, "chart": "Meter", "location": "NA", "val": "5" }
   ],  
 }
