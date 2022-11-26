@@ -25,13 +25,13 @@
     { "id": 10, "pid": "1401", "product": "Milka", "price": "1" , "size": "100g", "type": "Snack", "shelf": "40", "launched": "10-Jun22", "email": "admin10@xyz.com"}
   ],
   "charts": [
-    { "id": 1, "chart": "Bar", "location": "CHN", "val": "10" },
-    { "id": 2, "chart": "Bar", "location": "MUM", "val": "15" },
-    { "id": 3, "chart": "Bar", "location": "DEL", "val": "5" },
-    { "id": 4, "chart": "Bar", "location": "HYD", "val": "8" },
-    { "id": 5, "chart": "Donet", "location": "CHN", "val": "10" },
-    { "id": 6, "chart": "Donet", "location": "DEL", "val": "15" },
-    { "id": 7, "chart": "Donet", "location": "HYD", "val": "5" },
-    { "id": 8, "chart": "Meter", "location": "NA", "val": "5" }
+    { "id": 1, "chart": "Bar", "location": "IN", "val": "10" },
+    { "id": 2, "chart": "Bar", "location": "US", "val": "15" },
+    { "id": 3, "chart": "Bar", "location": "UK", "val": "5" },
+    { "id": 4, "chart": "Bar", "location": "CH", "val": "8" },
+    { "id": 5, "chart": "Donet", "location": "IN", "val": "10" },
+    { "id": 6, "chart": "Donet", "location": "US", "val": "15" },
+    { "id": 7, "chart": "Meter", "location": "NA", "val": "5" },
+    { "id": 8, "chart": "Open", "location": "NA", "val": "85" }
   ]
 }
