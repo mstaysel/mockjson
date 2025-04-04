@@ -13,7 +13,7 @@
   "name": "Profile 1" 
   },
   "produts": [
-    { "id": 1, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut, %13 Kakao" , "etki": "Obezite olusturma riski yuksek"},
+    { "id": 1, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut, %13 Kakao" , "etki": "Obezite olusturma  riski yuksek bulundu"},
     { "id": 2, "pid": "0000", "product": "parcel box", "price": "25" , "size": "One Size", "type": "Accessories", "shelf": "110", "launched": "02-Jun22", "email": "admin2@xyz.com"},
     { "id": 3, "pid": "fair", "product": "ticket pass", "price": "50" , "size": "na", "type": "na", "shelf": "na", "launched": "03-Jun22", "email": "admin3@xyz.com"},
     { "id": 4, "pid": "7193", "product": "Toy Owl", "price": "10" , "size": "Medium", "type": "Toys", "shelf": "10", "launched": "04-Jun22", "email": "admin4@xyz.com"},
