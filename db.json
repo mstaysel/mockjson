@@ -38,17 +38,13 @@
   },
   "produts": [
     { "id": 1, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-    {
-      "id": 2,
-      "pid": "0000",
-      "product": "parcel box",
-      "price": "25",
-      "size": "One Size",
-      "type": "Accessories",
-      "shelf": "110",
-      "launched": "02-Jun22",
-      "email": "admin2@xyz.com"
-    },
+    { "id": 2, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 3, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 4, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 5, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 6, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 7, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+    { "id": 8, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
     {
       "id": 3,
       "pid": "fair",
