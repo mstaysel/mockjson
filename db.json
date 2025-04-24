@@ -38,13 +38,13 @@
   },
   "produts": [
 { "id": 1, "pid": "80177609", "adi": "Ki**er Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 2, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 3, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 4, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 5, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 6, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 7, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 8, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
+{ "id": 2, "pid": "54023505", "adi": "Co****la", "icerik": "Seker, kafein asit" , "etki": "Obezite, diyabet, diş çürüğü ve kemik zayıflığına yol açabilir." },
+{ "id": 3, "pid": "11111", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 4, "pid": "1111", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 5, "pid": "540243505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 6, "pid": "540523505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 7, "pid": "543023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 8, "pid": "5409423505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
   ],
   "charts": [
     {
