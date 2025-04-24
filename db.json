@@ -37,8 +37,7 @@
     "name": "Profile 1"
   },
   "produts": [
-{ "id": 1, "pid": "80177609", "adi": "Kinder Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
-{ "id": 2, "pid": "54023505", "adi": "Cocacola", "icerik": "Asit, Kafein," , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
+{ "id": 1, "pid": "54023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
   ],
   "charts": [
     {
