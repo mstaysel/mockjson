@@ -38,12 +38,12 @@
   },
   "produts": [
 { "id": 1, "pid": "80177609", "adi": "Ki**er Chocolate", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 2, "pid": "54023505", "adi": "Co****la", "icerik": "Seker, kafein asit" , "etki": "Obezite, diyabet, diş çürüğü ve kemik zayıflığına yol açabilir." },
+{ "id": 2, "pid": "54023505", "adi": "Co****la", "icerik": "Seker, kafein asit" , "etki": "Obezite, diyabet, dis curuğu ve kemik zayifligina yol acabilir." },
 { "id": 3, "pid": "8690624003253", "adi": "C**tos Misir Cerezi", "icerik": "Mısır irmigi, kanola yagi, aroma vericiler, gida boyasi" , "etki": "Alerji yapabilir, siskinlik, katki maddelerine bagli sindirim sorunlari" },
 { "id": 4, "pid": "8691216110649", "adi": "H**bo Safari Mix", "icerik": "Glukoz surubu, seker, jelatin, aroma verici, boya" , "etki": "Kan sekerini hizla yukseltir, obezite riski, katki maddeleriyle hiperaktivite olusturur" },
-{ "id": 5, "pid": "540243505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 6, "pid": "540523505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
-{ "id": 7, "pid": "543023505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" },
+{ "id": 5, "pid": "8690526044873", "adi": "E*İ CRAX", "icerik": "Bugday unu misir patlagi bitkisel yag baharat karisimi tuz." , "etki": "Gluten hassasiyetinde siskinlik asiri tuz tuketimi tansiyon artirabilir." },
+{ "id": 6, "pid": "8682213100375", "adi": "R**so Bi*co Dubi*f", "icerik": "Seker,palm yagi, sut tozu, kakao fistik." , "etki": "Yuksek seker ve doymus yag icerir kilo alimina ve kalpdamar sorunlarina yolacabilir." },
+{ "id": 7, "pid": "8699118057666", "adi": "D*oy Kayisi Nektari", "icerik": "Kayisi puresi, seker veya FGS, sitrik asit ve aroma iceren icecektir." , "etki": "Seker ve asit icerigiyle mideyi tahris edebilir kan sekerini yukseltebilir." },
 { "id": 8, "pid": "5409423505", "adi": "Cocacola", "icerik": "%40 Seker, %60 Sut  Tozu, %13 Kakao" , "etki": "Obezite olusturma   riski yuksek, dis   sagligina zararli   bulundu" }
   ],
   "charts": [
